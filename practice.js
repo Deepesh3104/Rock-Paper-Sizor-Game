@@ -20,6 +20,7 @@ const showWinner=(userWin)=>{
     console.log("You loose")
     msgPara.innerHTML = "You Loose the match";
     msgPara.style.backgroundColor = "red";
+    
   }
 }
 
